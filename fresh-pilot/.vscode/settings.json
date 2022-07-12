@@ -1,3 +1,6 @@
 {
-  "deno.enable": true
+  "deno.enable": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true
 }
